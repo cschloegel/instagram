@@ -12,7 +12,8 @@
     ],
     "require": {
         "php": "^7.0",
-        "guzzlehttp/guzzle": "^6.2.1"
+        "guzzlehttp/guzzle": "^6.2.1",
+        "ramsey/laravel-oauth2-instagram": "^1.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^5.6"
